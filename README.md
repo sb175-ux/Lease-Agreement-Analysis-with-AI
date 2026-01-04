@@ -4,7 +4,6 @@ AI-Powered Contract Analyzer using Mistral 7B LLM
 ## Overview
 The **AI Contract Analyzer** is a Python-based offline legal document analyzer designed to simplify and automate the review of real estate lease agreements. It extracts key clauses, summarizes obligations, and flags potential risks using **Mistral 7B** LLM run locally via **Ollama**, ensuring full data privacy.
 
-This tool was developed as part of a capstone project for the **MS in Business Analytics / MIS program at the University at Buffalo** under the course *Applied AI for Managers (MGS-636)*.
 
 ---
 
@@ -65,8 +64,6 @@ Support additional legal contract types (e.g., service or employment agreements)
 
 Integrate fine-tuned legal LLMs (e.g., CUAD dataset).
 
-## Connect with me?
 
-[LinkedIn](https://www.linkedin.com/in/sagar-naduvinkeri/)
 
 snaduvin@buffalo.edu
