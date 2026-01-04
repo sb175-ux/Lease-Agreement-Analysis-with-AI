@@ -64,6 +64,3 @@ Support additional legal contract types (e.g., service or employment agreements)
 
 Integrate fine-tuned legal LLMs (e.g., CUAD dataset).
 
-
-
-snaduvin@buffalo.edu
